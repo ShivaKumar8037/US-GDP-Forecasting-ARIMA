@@ -1,4 +1,4 @@
-# Forecasting GDP of USA using ARIMA
+# Forecasting GDP of USA using ARIMA 📈
 
 ## Introduction
 Gross domestic product (GDP) is the total monetary or market value of all the finished goods and services produced within a country’s borders in a specific time period. As a broad measure of overall domestic production, it functions as a comprehensive scorecard of a given country’s economic health.
@@ -25,7 +25,7 @@ The project utilized both Theoretical and Practical ARIMA models for forecasting
 While the ARIMA model provided good forecasts for the years 2011 to 2022, it's not recommended to solely rely on this model for forecasting GDP indefinitely. The computation of macroeconomic factors, such as GDP, is challenging, and researchers might use other advanced models for better accuracy.
 
 ## How to run
-- Must have a Matlab License. 
+- Must have a Matlab License. 🥲
 - Ensure you have the required libraries installed.
 - Download the `GDP.csv` dataset.
 - Run the provided scripts.
