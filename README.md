@@ -1,6 +1,8 @@
 # Forecasting GDP of USA using ARIMA 📈
 
-**_NOTE:_**  The code is in the PDF.
+> [!IMPORTANT]  
+>  A valid MATLAB license is required to execute this code.
+
 ## Introduction
 Gross domestic product (GDP) is the total monetary or market value of all the finished goods and services produced within a country’s borders in a specific time period. As a broad measure of overall domestic production, it functions as a comprehensive scorecard of a given country’s economic health.
 
